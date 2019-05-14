@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-Hello Abcd Every body
-=======
-Hello Abcd Xyz
 
->>>>>>> training
+Hello Abcd Every body
+
+
+
